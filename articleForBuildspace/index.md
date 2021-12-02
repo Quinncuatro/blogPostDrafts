@@ -4,7 +4,7 @@ So back in 2017, I (and I imagine a LOT of other people on DEV.to) got really in
 
 Everyone I talked to seemed understandably smitten with the concept of decentralized finance, but I was trying to cut through the noise of all the day trading and trying to find where actual bedrock innovation was being made.
 
-I sifted through a lot of altcoins and vaporware to find projects like Golem (a way for folks to rent spare computing cycles to arists who need to render their work), IOTA (a network built to handle IoT transactions), and Request Network (a suite of financial tools for crypto payments). These were teams that were bucking the trend of trying to make a boatload of money from ICOs and instead actually trying to change the way that we interact with the Internet. Something about these teams of people in the middle of one of the craziest bull runs of history saying "screw the quick money, what we're working on is IMPORTANT" really stuck with me.
+I sifted through a lot of altcoins and vaporware to find projects like Golem (a way for folks to rent spare computing cycles to artists who need to render their work), IOTA (a network built to handle IoT transactions), and Request Network (a suite of financial tools for crypto payments). These were teams that were bucking the trend of trying to make a boatload of money from ICOs and instead actually trying to change the way that we interact with the Internet. Something about these teams of people in the middle of one of the craziest bull runs of history saying "screw the quick money, what we're working on is "IMPORTANT" really stuck with me.
 
 Then the bubble came up, the hype died out, and I pulled most of my (meager) investments out. I kept a loose eye on the space just to keep up to speed but didn't get too involved again.
 
@@ -66,7 +66,7 @@ I actually had a need to learn how to do these things so that I could help out o
 
 I've seen people on Twitter talking about how they met folks through buildspace who ended up being cofounders of projects they put together and that it was super cool, but that's quickly becoming my reality. Imagine my surprise when they announced yesterday that they have another course coming up about building our own DAOs.
 
-I mentioned that we were going to be utilizing SQDS but it's always good to kjnow what's going on under the hood in case we need to build any custom additions later.
+I mentioned that we were going to be utilizing SQDS but it's always good to know what's going on under the hood in case we need to build any custom additions later.
 
 Jake and I had joked for a while about making a DAO to experiment with what a locally focused community owned organization might evolve. But it took a handful of things lining up in order to make it happen. Buildspace having content ready to teach me about Solana development with Anchor, NFT creation and minting with Metaplex, and about the underpinnings of a DAO structure all over the course of three weekends (albeit spread out a bit) really helps give me the knowledge and confidence I need to get this project over the finish line.
 
